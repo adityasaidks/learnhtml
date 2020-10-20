@@ -1,0 +1,47 @@
+body {
+  background-color: #33F6FF;
+  font-family: Arial, helvetica, sans-serif;
+}
+
+h1 {
+   background-color: #3bb9ff;
+  border: 4px solid #1589ff;
+  border-radius: 4px;
+  padding: 20px;
+  text-transform: uppercase;
+  color: #FFE333;
+  text-align: center;
+}
+
+nav {
+  padding: 20px 10px;
+}
+
+h3 {
+	background-color:#EBEDEF
+}
+
+#eyes {
+  back#ground-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#nose {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
+
+#ears {
+  background-color: #f9f9f9	;
+  border-radius: 5px;
+}
+
+#skin {
+  background-color: #B3B6B7		;
+  border-radius: 5px;
+}
+
+#tongue {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}

@@ -1,0 +1,74 @@
+body {
+  background-color: #33F6FF;
+  font-family: Arial, helvetica, sans-serif;
+}
+
+h1 {
+   background-color: #3bb9ff;
+  border: 4px solid #1589ff;
+  border-radius: 4px;
+  padding: 20px;
+  text-transform: uppercase;
+  color: #FFE333;
+  text-align: center;
+}
+
+#mouth {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#toxic {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
+
+#tongue {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#esophagus {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
+
+#liver {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#stomach {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
+
+#gallbladder {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#pancreas {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
+
+#small {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#large {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
+
+#rectum {
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#anus {
+  background-color: #B3B6B7;
+  border-radius: 5px;
+}
